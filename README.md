@@ -8,4 +8,4 @@ Dette repoet inneholder en .pdf som viser bruk av teknologene
 - Spark
 
 .. for å hente ut forskjellig data relatert til kraftmarkedet.
-For å lese mer om dette, klikk på pdf-filen.
+For å lese mer om dette, klikk på pdf-filen "NOSQL.pdf".
