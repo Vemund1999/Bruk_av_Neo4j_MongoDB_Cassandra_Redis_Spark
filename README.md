@@ -1,4 +1,4 @@
-# Om dette repoiet
+# Om dette repoet
 
 Dette repoet inneholder en .pdf som viser bruk av teknologene
 - Neo4j
